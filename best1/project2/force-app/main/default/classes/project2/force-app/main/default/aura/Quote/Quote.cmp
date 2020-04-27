@@ -1,0 +1,8 @@
+<aura:component implements="forceCommunity:availableForAllPageTypes" access="global" >
+	<div class="slds-align_absolute-center" style="middle:5rem">
+    <p> There is no such thing as a perfect basketball player, and I don’t believe there is only one greatest player either.</p>
+    </div>
+    <div class="slds-align_absolute-center" style="middle:5rem">
+	<p>— Michael Jordan</p>
+    </div>
+</aura:component>
